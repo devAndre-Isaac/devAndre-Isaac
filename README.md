@@ -7,12 +7,12 @@ I am a student of Information Systems specialized for Web and Mobile development
 `` 
   
   ### Technologies 💻🔌
--✅ Node.js
--✅ Mysql
--✅ Mongo.db
--✅ Html
--✅ CSS
--✅ React
+- ✅ Node.js
+- ✅ Mysql
+- ✅ Mongo.db
+- ✅ Html
+- ✅ CSS
+- ✅ React
 
 
 
