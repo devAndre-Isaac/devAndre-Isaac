@@ -11,6 +11,7 @@ I am a student of Information Systems specialized for Web and Mobile development
 - ✅ Node.js
 - ✅ Mysql
 - ✅ Mongo.db
+- ✅ Postgres
 - ✅ Html
 - ✅ CSS
 - ✅ React
