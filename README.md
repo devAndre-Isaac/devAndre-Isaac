@@ -8,6 +8,7 @@ I am a student of Information Systems specialized for Web and Mobile development
 `` 
   
   ### Technologies 💻🔌
+- ✅ TypeScript
 - ✅ Node.js
 - ✅ Mysql
 - ✅ Mongo.db
