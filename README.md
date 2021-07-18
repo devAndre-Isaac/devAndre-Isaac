@@ -18,5 +18,6 @@ I am a student of Information Systems specialized for Web and Mobile development
 - ✅ React
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devAndre-Isaac&layout=compact&theme=nightowl)](https://github.com/devAndre-Isaac/github-readme-stats)
 
 
