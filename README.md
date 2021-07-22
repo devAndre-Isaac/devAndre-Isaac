@@ -1,6 +1,6 @@
 # Yo 🚀
 
-<p align="center"><img width=50% src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif"></p>
+<p align="center"><img width=50% src="https://media.tenor.com/images/7079821d6de91ef7b6132b1ecc3059b9/tenor.gif"></p>
 
 **@MemoGroup**
 
