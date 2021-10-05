@@ -13,6 +13,7 @@
 - ✅ Mysql
 - ✅ Mongo.db
 - ✅ Postgres
+- ✅ JavaScript
 - ✅ Html
 - ✅ CSS
 - ✅ React
